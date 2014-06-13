@@ -6,7 +6,7 @@
 
 - We believe that Drupal's main strengths lie in the power and flexibility of its back-end; its primary value to users is its ability to architect and display complex content models.
 
-- We believe that client-side front-end frameworks are the future of the web.
+- We believe that companies front end need to move and change faster than their backend needs should move or change.
 
 - It is critically important for Drupal to be services oriented first, not HTML oriented first, or risk becoming irrelevant.
 
